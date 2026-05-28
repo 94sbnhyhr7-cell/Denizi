@@ -1,7 +1,7 @@
 import { Frame } from '@brilliantlabs/frame-sdk';
 
 // ВСТАВЬ СЮДА СВОЙ КЛЮЧ
-const GEMINI_API_KEY = "ТВОЙ_КЛЮЧ_GEMINI";
+const GEMINI_API_KEY = "AIzaSyArYMI7hWX1PK4PTvg0spyxdFYphxirc6w";
 const PROMPT = "Ты решаешь тест. На картинке вопрос. Выведи ТОЛЬКО одну букву правильного ответа (А, Б, В, Г или Д). Никаких точек, скобок и пояснений. Ответ должен состоять из 1 символа.";
 
 const connectBtn = document.getElementById('connectBtn');
